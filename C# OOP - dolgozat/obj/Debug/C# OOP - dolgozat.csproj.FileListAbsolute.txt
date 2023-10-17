@@ -1,0 +1,7 @@
+E:\info2.felev\csharp\C# OOP - dolgozat\C# OOP - dolgozat\obj\Debug\C# OOP - dolgozat.csproj.AssemblyReference.cache
+E:\info2.felev\csharp\C# OOP - dolgozat\C# OOP - dolgozat\obj\Debug\C# OOP - dolgozat.csproj.CoreCompileInputs.cache
+E:\info2.felev\csharp\C# OOP - dolgozat\C# OOP - dolgozat\bin\Debug\C# OOP - dolgozat.exe.config
+E:\info2.felev\csharp\C# OOP - dolgozat\C# OOP - dolgozat\bin\Debug\C# OOP - dolgozat.exe
+E:\info2.felev\csharp\C# OOP - dolgozat\C# OOP - dolgozat\bin\Debug\C# OOP - dolgozat.pdb
+E:\info2.felev\csharp\C# OOP - dolgozat\C# OOP - dolgozat\obj\Debug\C# OOP - dolgozat.exe
+E:\info2.felev\csharp\C# OOP - dolgozat\C# OOP - dolgozat\obj\Debug\C# OOP - dolgozat.pdb
